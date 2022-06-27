@@ -6,4 +6,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: tracysmith32@live.co.uk
 
+Portfolio https://tracy-portfolio-2022.netlify.app
+
 
