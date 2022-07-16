@@ -1,4 +1,5 @@
-### Hi I'm Tracy! 👋
+<h1 align="center">Hi 👋, I'm Tracy Smith</h1>
+<h3 align="center">A Full-Stack developer</h3>
 
 - 🔭 I’m currently working on lots of React projects.
 - 🌱 I’m currently learning about AWS servers.
@@ -7,5 +8,11 @@
 - 📫 How to reach me: tracysmith32@live.co.uk
 
 Portfolio: https://tracy-portfolio-2022.netlify.app
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tracysuzanne321&show_icons=true&locale=en&layout=compact" alt="tracysuzanne321" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tracysuzanne321&show_icons=true&locale=en" alt="tracysuzanne321" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tracysuzanne321&" alt="tracysuzanne321" /></p>
 
 
