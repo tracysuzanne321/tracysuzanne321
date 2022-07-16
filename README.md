@@ -9,7 +9,7 @@
 
 Portfolio: https://tracy-portfolio-2022.netlify.app
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tracysuzanne321&show_icons=true&locale=en&layout=compact" alt="tracysuzanne321" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tracysuzanne321&show_icons=true&locale=en&layout=compact" alt="tracysuzanne321" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tracysuzanne321&show_icons=true&locale=en" alt="tracysuzanne321" /></p>
 
