@@ -11,11 +11,11 @@
 
 Portfolio: https://tracy-portfolio-2022.netlify.app
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tracysuzanne321&show_icons=true&locale=en&layout=compact" alt="tracysuzanne321" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tracysuzanne321&show_icons=true&locale=en&layout=compact" alt="tracysuzanne321" /></p>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tracysuzanne321&" alt="tracysuzanne321" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tracysuzanne321&" alt="tracysuzanne321" />
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=tracysuzanne321&show_icons=true&locale=en" alt="tracysuzanne321" /></p>
+<p align="left"><img width="400" src="https://github-readme-stats.vercel.app/api?username=tracysuzanne321&show_icons=true&locale=en" alt="tracysuzanne321" /></p>
 
 
 
