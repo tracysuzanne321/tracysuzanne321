@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tracy Smith</h1>
+<h1 align="center">Hi 👋, I'm Tracy</h1>
 <h3 align="center">A Full-Stack developer</h3>
 
 - 🔭 I’m currently working on lots of React projects.
